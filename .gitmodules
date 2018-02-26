@@ -1,0 +1,3 @@
+[submodule "Plugins/URoboSim"]
+	path = Plugins/URoboSim
+	url = git@github.com:NeumannM89/URoboSim.git
